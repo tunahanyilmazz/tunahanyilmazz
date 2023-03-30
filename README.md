@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DevOps Tools
+I'm currently working as a DevOps Engineer
 
 
 ## 🌐 Socials:
